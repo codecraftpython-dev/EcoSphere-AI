@@ -1,5 +1,6 @@
 # EcoSphere AI 🌍🤖
-<img width="1855" height="997" alt="image" src="https://github.com/user-attachments/assets/d284655e-463a-4ae7-9a93-a61f26e7d8c1" />
+
+<img width="1642" height="757" alt="Screenshot 2026-06-23 122954" src="https://github.com/user-attachments/assets/45d53f1a-b8c8-4507-85db-ab065ec0b3da" />
 
 ## 🎥 Demo Video
 https://github.com/user-attachments/assets/ea34d1c3-529f-4c29-914d-9e7124d48cb4
