@@ -1,4 +1,9 @@
 # EcoSphere AI 🌍🤖
+<img width="1855" height="997" alt="image" src="https://github.com/user-attachments/assets/d284655e-463a-4ae7-9a93-a61f26e7d8c1" />
+
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/ea34d1c3-529f-4c29-914d-9e7124d48cb4
+
 
 **Autonomous AI Sustainability Intelligence Platform**
 
