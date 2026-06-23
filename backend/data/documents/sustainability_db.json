@@ -1,0 +1,75 @@
+[
+  {
+    "id": "waste-mgmt-001",
+    "sector": "Waste Management",
+    "title": "Industrial and Organic Waste Reduction Guidelines",
+    "keywords": ["waste", "compost", "landfill", "recycling", "organic", "circular economy"],
+    "summary": "Implement a circular economy approach by diverting organic waste to composting facilities, establishing strict waste audits, and implementing zero-waste packaging protocols.",
+    "metrics": {
+      "waste_diverted_tons_per_year": 120,
+      "co2_savings_kg_per_ton": 850
+    },
+    "best_practices": [
+      "Conduct a comprehensive waste audit to categorize waste streams.",
+      "Partner with municipal composting services or install on-site anaerobic digestors.",
+      "Redesign packaging to utilize 100% biodegradable or recyclable materials.",
+      "Establish a 'take-back' program for used products to foster closed-loop manufacturing."
+    ],
+    "references": ["EPA Circular Economy Framework (2025)", "Global Zero Waste Alliance Guidelines (2024)"]
+  },
+  {
+    "id": "energy-eff-002",
+    "sector": "Energy Efficiency",
+    "title": "Commercial Building Energy Conservation and Renewable Transition",
+    "keywords": ["energy", "solar", "electricity", "hvac", "lighting", "led", "retrofit"],
+    "summary": "Maximize commercial energy efficiency by upgrading HVAC systems to heat pumps, replacing standard lighting with smart LEDs, and installing rooftop solar PV arrays.",
+    "metrics": {
+      "energy_savings_kwh_per_sqm": 45,
+      "solar_yield_kwh_per_kwp": 1450,
+      "co2_savings_kg_per_kwh": 0.42
+    },
+    "best_practices": [
+      "Perform thermographic energy audits to locate insulation leaks.",
+      "Install smart building management systems (BMS) with motion-sensor LED lighting.",
+      "Transition from gas-fired heating to high-efficiency electric air-source heat pumps.",
+      "Install rooftop solar panels combined with battery storage for peak shaving."
+    ],
+    "references": ["NREL Commercial Solar Deployment Guide (2024)", "ASHRAE Standard 90.1 for Energy Efficient Buildings"]
+  },
+  {
+    "id": "water-cons-003",
+    "sector": "Water Conservation",
+    "title": "Industrial and Commercial Water Conservation and Greywater Reuse",
+    "keywords": ["water", "irrigation", "greywater", "harvesting", "plumbing", "conservation"],
+    "summary": "Reduce potable water consumption by installing rainwater harvesting storage tanks, recycling greywater for cooling towers/irrigation, and deploying ultra-low flow fixtures.",
+    "metrics": {
+      "water_savings_liters_per_employee_day": 35,
+      "rainwater_potential_liters_per_sqm_rain": 0.85
+    },
+    "best_practices": [
+      "Implement sub-metering to detect leaks in real-time.",
+      "Install greywater filtration systems to reuse sink and laundry discharge for toilet flushing.",
+      "Design rainwater collection networks on rooftops for landscape irrigation.",
+      "Upgrade to dual-flush toilets, sensor faucets, and aerators to minimize utility draw."
+    ],
+    "references": ["EPA WaterSense for Commercial Buildings (2023)", "World Resources Institute Water Scarcity Mitigation Toolkit"]
+  },
+  {
+    "id": "transport-004",
+    "sector": "Sustainable Transportation",
+    "title": "Corporate Fleet Electrification and Commute Carbon Abatement",
+    "keywords": ["transport", "fleet", "electric vehicle", "ev", "commute", "emissions", "charging"],
+    "summary": "Mitigate scope 1 and scope 3 transport emissions by transitioning company fleets to battery electric vehicles (EVs), deploying smart charging infrastructure, and incentivizing green commuting.",
+    "metrics": {
+      "ev_co2_savings_grams_per_km": 120,
+      "commute_reduction_co2_kg_per_day": 4.8
+    },
+    "best_practices": [
+      "Audit fleet travel logs to determine daily range requirements and transition to EVs.",
+      "Install Level 2 and DC fast charging stations powered by renewable energy contracts.",
+      "Provide subsidies or pre-tax benefits for employee transit passes and bike-to-work schemes.",
+      "Establish remote-work or hybrid policies to directly reduce weekly commute mileage."
+    ],
+    "references": ["ICCT Fleet Electrification Guide (2025)", "GHG Protocol Scope 3 Calculation Guidance"]
+  }
+]
