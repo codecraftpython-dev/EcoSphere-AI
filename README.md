@@ -138,56 +138,34 @@ Available tools:
 EcoSphere_AI/
 
 ├── backend/
-
 │   ├── src/
-
 │   │   ├── agents/
-
 │   │   │   ├── analyzerAgent.js
 │   │   │   ├── researchAgent.js
 │   │   │   ├── plannerAgent.js
 │   │   │   ├── impactAgent.js
 │   │   │   └── advisorAgent.js
-
 │   │   ├── mcp/
-
 │   │   │   ├── mcpServer.js
 │   │   │   └── tools/
-
 │   │   │       ├── knowledgeBase.js
 │   │   │       ├── calculator.js
 │   │   │       └── validator.js
-
 │   │   └── server.js
-
-
 │   ├── data/
-
 │   │   └── sustainability_db.json
-
-
 │   └── package.json
-
-
 ├── frontend/
-
 │   ├── src/
-
 │   │   ├── components/
-
 │   │   │   ├── ProblemInput.jsx
 │   │   │   ├── StatusTracker.jsx
 │   │   │   ├── ReportViewer.jsx
 │   │   │   ├── TimelineView.jsx
 │   │   │   └── ImpactSummary.jsx
-
 │   │   ├── App.jsx
 │   │   └── index.css
-
-
 │   └── package.json
-
-
 └── README.md
 ```
 
